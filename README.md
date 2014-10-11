@@ -1,4 +1,4 @@
-chef-demo
+test
 =========
 
-Chef demo application for Rails-MongoDB
+test demo application for Rails-MongoDB
